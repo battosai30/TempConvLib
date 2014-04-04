@@ -28,4 +28,5 @@ float ConvThermocouple(float Signal,float ColdTempComp);
 
 float ConvPt100(float Resistance, float Base);
 
+
 #endif
